@@ -32,5 +32,5 @@ This section includes the functionalities that the students need to implement.
 8. Save the player's performance in the database
 9. Get the player's data from the database to show some statistics
 
-For task 1 XML is relevant.
-For tasks 2-10 JDBC is relevant.
+For task 1, XML is relevant.
+For tasks 2-10, JDBC is relevant.
