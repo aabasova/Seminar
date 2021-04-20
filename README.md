@@ -1,7 +1,7 @@
 # Seminar
 
-This project is my seminar. The goal of this project is to support future students in learning advanced concepts of the Java programming language.
-The relevant concepts are Java Database Control (JDBC) and XML. 
+This repository contains my seminar work. The goal of this seminar is to support future students in learning advanced concepts of the Java programming language.
+The relevant concepts are Java Database Control (JDBC) and XML. The students will learn the concepts by developing a Quiz application. The following pictures show the graphical user interface of the application.
 
 <img src="/docs/Main-Gui.png" width="600" height="400">
 <img src="/docs/Film-Quiz.png" width="600" height="400">
