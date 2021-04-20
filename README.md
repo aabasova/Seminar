@@ -8,7 +8,7 @@ The relevant concepts are Java Database Control (JDBC) and XML. The students wil
 <img src="/docs/Statistik.png" width="600" height="400">
 
 ## Implementation
-The students will get a partially implemented version of this project. All the packages and classes will be given. Specific classes and methods will be either empty or will return a dummy value. The students will have to implement these classes and methods based on the task description. The task description can be found in this repository in the file aufgaben.pdf. This repository contains the complete project, thus the solutions of the exercises.
+The students will get a partially implemented version of this project. All the packages and classes will be given. Specific classes and methods will be either empty or will return a dummy value. The students will have to implement these classes and methods based on the task description. The task description can be found inside the docs folder in the file aufgaben.pdf. This repository contains the complete project, thus the solutions of the exercises.
 
 ## Project Structure
 The project is structured into the following five packages
