@@ -1,0 +1,19 @@
+<!ELEMENT Quiz (Frage+, Spieler+)>
+<!ELEMENT Frage (Antwort+)>
+<!ATTLIST Frage 
+          FrageNr ID #REQUIRED
+          Frage CDATA #REQUIRED
+          korrekteAntwort CDATA #REQUIRED  
+          Schwierigkeitsgrad CDATA #REQUIRED   
+          Kategorie CDATA #REQUIRED      
+>
+<!ATTLIST Antwort
+          AntwortNr CDATA #REQUIRED
+          Antwort CDATA #REQUIRED
+          Frage IDREF #REQUIRED 
+>
+<!ATTLIST Spieler
+          SpielerNr CDATA #REQUIRED
+          Name CDATA #REQUIRED
+          Punkte CDATA #REQUIRED
+>
