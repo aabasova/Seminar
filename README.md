@@ -1,6 +1,6 @@
 # Seminar
 
-This project is my seminar. The goal of this project is support future students at learning advanced concepts of the Java programming language. 
+This project is my seminar. The goal of this project is to support future students in learning advanced concepts of the Java programming language. 
 The relevant concepts are Java Database Control (JDBC) and XML.
 
 <img src="/docs/Main-Gui.png" width="600" height="400">
@@ -19,9 +19,7 @@ The data for the quiz is given in an XML format in the resources folder.
 
 
 ## Implementation
-The students will get this project partially implemented. All the packages and classes will be given as a Java project. Specific classes and methods will be either empty
-or will return a dummy value. The students will have to implement this classes and methods based on my descriptions. The entire description can be 
-found in this project under the name aufgaben.pdf.
+The students will get a partially implemented version of this project. All the packages and classes will be given as a Java project. Specific classes and methods will be either empty or will return a dummy value. The students will have to implement these classes and methods based on the task description. The entire description can be found in this project under the name aufgaben.pdf. This repository contains the complete project, thus the solutions of the exercises.
 
 ### Exercises
 This section includes the functionalities that the students need to implement
@@ -34,4 +32,3 @@ This section includes the functionalities that the students need to implement
 - Get the correct answer for the quiz
 - Save the player's performance in the database
 - Get all the player's from the database to show some statistics
-	
