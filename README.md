@@ -3,6 +3,10 @@
 This project is my seminar. The goal of this project is support future students at learning advanced concepts of the Java programming language. 
 The relevant concepts are Java Database Control (JDBC) and XML.
 
+<img src="/docs/Main-Gui.png" width="600" height="400">
+<img src="/docs/Film-Quiz.png" width="600" height="400">
+<img src="/docs/Statistik.png" width="600" height="400">
+
 ## Project Structure
 The project is structured into the following five packages
 - data: this package contains the central object of the application. The class Frage represents a question of the Quiz. The class Antwort an answer and the class Player a player of the quiz.
